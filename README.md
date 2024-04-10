@@ -41,7 +41,7 @@ I tested the algorithm using the **Pusher-v4** environment, a multi-jointed robo
 
 <p align="center">
     <img src="image-2.png">
-    <img src="https://s6.ezgif.com/tmp/ezgif-6-b2bbbed139.gif">
+    <img src="pusher.gif">
 </p>
 
 After training for 1000000 steps, the agent, despite not being yet able to solve the task perfectly, has a structured and strategic behavior. The environment being highly complex, it might need much more steps in order to arrive at a better result.
